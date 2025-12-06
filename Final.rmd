@@ -66,3 +66,4 @@ druggies_test
 The proportion test for participants who use drugs also shows statistical significance, suggesting that the vaccine reduces infection rates in this group. This is particularly important, as drug users may face additional health risks, and the results support the vaccine’s efficacy for diverse populations.
 
 # Overall Results and Conclusions
+In summary, the vaccine demonstrates statistically significant effectiveness in all subgroups analyzed: females, males, LGBTQ participants, and drug users. Each subgroup analysis shows that the infection rate is significantly lower than 50%, indicating that the vaccine is broadly protective across demographic and behavioral groups. These findings provide strong evidence that the vaccine is effective in the study population and highlight its potential for widespread protective benefits.
