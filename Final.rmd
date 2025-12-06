@@ -26,6 +26,13 @@ A new  preventative vaccine (covid921) is under test in clinical trials. Given t
 
 ## Males
 
+```{r}
+males <- FinalData %>% filter(sex == "M")
+nrow(males)
+male_test <- prop.test(sum(males$infected == 1), nrow(males), p = 0.5)
+male_test
+```
+The test for males also produced a highly significant result, meaning that the vaccine has a statistically meaningful effect in this subgroup. Like with females, this indicates that the vaccine effectively reduces infection rates in male participants, providing evidence of its efficacy across sexes.
 
 ## Females
 
